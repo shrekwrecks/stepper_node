@@ -5,7 +5,5 @@ my ears hurt (too much caffiene)
 some goals:
 
 configurable PID through CAN bus from master controller
-
 filter encoder data for reduce noise
-
 state machine to keep track of # of rotations done (would help not rip wiring out)
