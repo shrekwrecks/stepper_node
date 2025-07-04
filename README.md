@@ -10,9 +10,9 @@ some goals:
 
     3) state machine to keep track of # of rotations done (would help not rip wiring out)  
 
-<!-- <p align="center">
+<p align="center">
   <img src="docs/system.drawio.svg" />
-</p> -->
+</p>
 
 
-![](docs/system.drawio.svg)
+<!-- ![](docs/system.drawio.svg) -->
